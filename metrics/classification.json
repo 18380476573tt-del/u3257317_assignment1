@@ -1,0 +1,7 @@
+{
+  "logistic_regression_accuracy": 0.823,
+  "random_forest_accuracy": 0.845, 
+  "gradient_boosting_accuracy": 0.839,
+  "svm_accuracy": 0.817,
+  "neural_network_accuracy": 0.831
+}

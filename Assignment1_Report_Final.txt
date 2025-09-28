@@ -1,0 +1,3 @@
+Restaurant Data Analysis - Final Report
+Regression MSE: 0.0208 (Linear), 0.0195 (Gradient)
+GitHub: https://github.com/18380476573tt-del/u3257317_assignment1

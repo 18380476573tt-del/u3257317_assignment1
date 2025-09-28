@@ -1,0 +1,6 @@
+{
+  "linear_regression_mse": 0.0208,
+  "gradient_descent_mse": 0.0195,
+  "training_samples": 8400,
+  "test_samples": 2100
+}

@@ -1,0 +1,15 @@
+prepare:
+  random_state: 42
+  test_size: 0.2
+
+feature_engineering:
+  scaling: true
+  encoding: "onehot"
+
+train_regression:
+  model_type: "linear"
+  random_state: 42
+
+train_classification:
+  model_type: "logistic"
+  random_state: 42
