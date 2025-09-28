@@ -4,3 +4,21 @@ __pycache__/
 *.csv
 *.png
 *.pkl
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+
+# DVC/缓存（如你使用）
+.cache/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.zip
