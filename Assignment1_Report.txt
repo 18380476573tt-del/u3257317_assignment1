@@ -1,6 +1,6 @@
 RESTAURANT DATA ANALYSIS - FINAL REPORT
 
-Student: Stacey
+Student: Yuanyuan Hu
 ID: u3257317  
 GitHub: https://github.com/18380476573tt-del/u3257317_assignment1
 
