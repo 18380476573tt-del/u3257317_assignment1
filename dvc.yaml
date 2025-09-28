@@ -1,0 +1,20 @@
+stages:
+  prepare:
+    cmd: echo "Data preparation completed"
+    deps:
+      - data/raw/
+    outs:
+      - data/processed/
+    metrics:
+      - metrics/preparation.json:
+          cache: false
+
+  train:
+    cmd: echo "Model training completed"  
+    deps:
+      - data/processed/
+    outs:
+      - models/
+    metrics:
+      - metrics/training.json:
+          cache: false
